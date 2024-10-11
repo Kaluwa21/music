@@ -1,6 +1,6 @@
 # Shaan Music Bot
 
-![Shaan Music Logo](https://graph.org/file/9d75bfb77e17b80b3da5b.png)
+![Shaan Music Logo](https://storage.prompt-hunt.workers.dev/clf1686c00001m908oddrbboz_2)
 
 [![Stars](https://img.shields.io/github/stars/TeamShaan/ShaanMusicBot?color=black&logo=github&style=for-the-badge)](https://github.com/TeamShaan/ShaanMusicBot/stargazers)
 [![Forks](https://img.shields.io/github/forks/TeamShaan/ShaanMusicBot?color=black&logo=github&style=for-the-badge)](https://github.com/TeamShaan/ShaanMusicBot/network/members)
